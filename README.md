@@ -6,17 +6,17 @@ With each project, I embark on a journey of discovery, exploring the nuances of 
 
 Here is the list of my data engineering projects:
 
-*  [ AWS Batch Processing Pipeline for Wikipedia Data Analysis: S3 Storage, EMR Processing, and Athena Querying ](https://www.google.com))
-* [Building a Real-Time Data Warehouse: Implementing Slowly Changing Dimensions with Snowflake, NiFi, and Docker]
-* [Building a Real-Time Spark Streaming Pipeline for GPS Trajectory Analysis on AWS]
-* [Harmonizing Data: Leveraging Azure Synapse for In-Depth Spotify User Insights and Personalized Music Experiences]
-* [Building Real-Time Delta Live Tables Pipeline in Azure Databricks for Streamlined Data Processing and Visualization]
-* [Building a Smart Medical Science Search Engine: Deploying NLP Model with Azure Text Analytics Cognitive Service on Azure Databricks]
-* [Building a Scalable Data Processing Pipeline with Apache Beam, Dataflow & BigQuery on GCP using Yelp Dataset]
-* [Automating Big Data Processing with Docker, GKE, and Cloud Functions on Google Cloud Platform]
-* [Building a Real-World Data Pipeline with PySpark, NiFi, Hive, Kafka, Airflow, Tableau, and AWS QuickSight]
-* [Real-Time Log Analytics with Apache Spark, Python, and Kafka: Leveraging NASA Kennedy Space Center WWW Server Logs for Scalable Log Analysis]
-* [Exploring Analytical Capabilities: Hive Project for Customer Demographics Analytics on AWS]
+* [AWS Batch Processing Pipeline for Wikipedia Data Analysis: S3 Storage, EMR Processing, and Athena Querying]()
+* [Building a Real-Time Data Warehouse: Implementing Slowly Changing Dimensions with Snowflake, NiFi, and Docker]()
+* [Building a Real-Time Spark Streaming Pipeline for GPS Trajectory Analysis on AWS]()
+* [Harmonizing Data: Leveraging Azure Synapse for In-Depth Spotify User Insights and Personalized Music Experiences]()
+* [Building Real-Time Delta Live Tables Pipeline in Azure Databricks for Streamlined Data Processing and Visualization]()
+* [Building a Smart Medical Science Search Engine: Deploying NLP Model with Azure Text Analytics Cognitive Service on Azure Databricks]()
+* [Building a Scalable Data Processing Pipeline with Apache Beam, Dataflow & BigQuery on GCP using Yelp Dataset]()
+* [Automating Big Data Processing with Docker, GKE, and Cloud Functions on Google Cloud Platform]()
+* [Building a Real-World Data Pipeline with PySpark, NiFi, Hive, Kafka, Airflow, Tableau, and AWS QuickSight]()
+* [Real-Time Log Analytics with Apache Spark, Python, and Kafka: Leveraging NASA Kennedy Space Center WWW Server Logs for Scalable Log Analysis]()
+* [Exploring Analytical Capabilities: Hive Project for Customer Demographics Analytics on AWS]()
 
 
 
