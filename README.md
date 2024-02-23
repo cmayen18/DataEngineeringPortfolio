@@ -9,14 +9,14 @@ Here is the list of my data engineering projects:
 * [AWS Batch Processing Pipeline for Wikipedia Data Analysis: S3 Storage, EMR Processing, and Athena Querying](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/AWS%20Batch%20Processing%20Pipeline%20for%20Wikipedia%20Data%20Analysis)
 * [Building a Real-Time Data Warehouse: Implementing Slowly Changing Dimensions with Snowflake, NiFi, and Docker](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/Building%20a%20Real-Time%20Data%20Warehouse)
 * [Building a Real-Time Spark Streaming Pipeline for GPS Trajectory Analysis on AWS](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/uilding%20a%20Real-Time%20Spark%20Streaming%20Pipeline%20for%20GPS%20Trajectory%20Analysis%20on%20AWS)
-* [Harmonizing Data: Leveraging Azure Synapse for In-Depth Spotify User Insights and Personalized Music Experiences]()
-* [Building Real-Time Delta Live Tables Pipeline in Azure Databricks for Streamlined Data Processing and Visualization]()
-* [Building a Smart Medical Science Search Engine: Deploying NLP Model with Azure Text Analytics Cognitive Service on Azure Databricks]()
-* [Building a Scalable Data Processing Pipeline with Apache Beam, Dataflow & BigQuery on GCP using Yelp Dataset]()
-* [Automating Big Data Processing with Docker, GKE, and Cloud Functions on Google Cloud Platform]()
-* [Building a Real-World Data Pipeline with PySpark, NiFi, Hive, Kafka, Airflow, Tableau, and AWS QuickSight]()
-* [Real-Time Log Analytics with Apache Spark, Python, and Kafka: Leveraging NASA Kennedy Space Center WWW Server Logs for Scalable Log Analysis]()
-* [Exploring Analytical Capabilities: Hive Project for Customer Demographics Analytics on AWS]()
+* [Harmonizing Data: Leveraging Azure Synapse for In-Depth Spotify User Insights and Personalized Music Experiences](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/Harmonizing%20Data%3A%20Leveraging%20Azure%20Synapse%20for%20In-Depth%20Spotify%20User%20Insights%20and%20Personalized%20Music%20Experiences)
+* [Building Real-Time Delta Live Tables Pipeline in Azure Databricks for Streamlined Data Processing and Visualization](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/Building%20Real-Time%20Delta%20Live%20Tables%20Pipeline%20in%20Azure%20Databricks%20for%20Streamlined%20Data%20Processing%20and%20Visualization)
+* [Building a Smart Medical Science Search Engine: Deploying NLP Model with Azure Text Analytics Cognitive Service on Azure Databricks](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/Building%20a%20Smart%20Medical%20Science%20Search%20Engine%3A%20Deploying%20NLP%20Model%20with%20Azure%20Text%20Analytics%20Cognitive%20Service%20on%20Azure%20Databricks)
+* [Building a Scalable Data Processing Pipeline with Apache Beam, Dataflow & BigQuery on GCP using Yelp Dataset](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/Building%20a%20Scalable%20Data%20Processing%20Pipeline%20with%20Apache%20Beam%2C%20Dataflow%20%26%20BigQuery%20on%20GCP%20using%20Yelp%20Dataset)
+* [Automating Big Data Processing with Docker, GKE, and Cloud Functions on Google Cloud Platform](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/Building%20a%20Scalable%20Data%20Processing%20Pipeline%20with%20Apache%20Beam%2C%20Dataflow%20%26%20BigQuery%20on%20GCP%20using%20Yelp%20Dataset)
+* [Building a Real-World Data Pipeline with PySpark, NiFi, Hive, Kafka, Airflow, Tableau, and AWS QuickSight](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/Building%20a%20Real-World%20Data%20Pipeline%20with%20PySpark%2C%20NiFi%2C%20Hive%2C%20Kafka%2C%20Airflow%2C%20Tableau%2C%20and%20AWS%20QuickSight)
+* [Real-Time Log Analytics with Apache Spark, Python, and Kafka: Leveraging NASA Kennedy Space Center WWW Server Logs for Scalable Log Analysis](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/Real-Time%20Log%20Analytics%20with%20Apache%20Spark%2C%20Python%2C%20and%20Kafka%3A%20Leveraging%20NASA%20Kennedy%20Space%20Center%20WWW%20Server%20Logs%20for%20Scalable%20Log%20Analysis)
+* [Exploring Analytical Capabilities: Hive Project for Customer Demographics Analytics on AWS](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/Exploring%20Analytical%20Capabilities%3A%20Hive%20Project%20for%20Customer%20Demographics%20Analytics%20on%20AWS)
 
 
 
