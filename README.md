@@ -6,9 +6,9 @@ With each project, I embark on a journey of discovery, exploring the nuances of 
 
 Here is the list of my data engineering projects:
 
-* [AWS Batch Processing Pipeline for Wikipedia Data Analysis: S3 Storage, EMR Processing, and Athena Querying]()
-* [Building a Real-Time Data Warehouse: Implementing Slowly Changing Dimensions with Snowflake, NiFi, and Docker]()
-* [Building a Real-Time Spark Streaming Pipeline for GPS Trajectory Analysis on AWS]()
+* [AWS Batch Processing Pipeline for Wikipedia Data Analysis: S3 Storage, EMR Processing, and Athena Querying](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/AWS%20Batch%20Processing%20Pipeline%20for%20Wikipedia%20Data%20Analysis)
+* [Building a Real-Time Data Warehouse: Implementing Slowly Changing Dimensions with Snowflake, NiFi, and Docker](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/Building%20a%20Real-Time%20Data%20Warehouse)
+* [Building a Real-Time Spark Streaming Pipeline for GPS Trajectory Analysis on AWS](https://github.com/cmayen18/DataEngineeringPortfolio/tree/main/Projects/uilding%20a%20Real-Time%20Spark%20Streaming%20Pipeline%20for%20GPS%20Trajectory%20Analysis%20on%20AWS)
 * [Harmonizing Data: Leveraging Azure Synapse for In-Depth Spotify User Insights and Personalized Music Experiences]()
 * [Building Real-Time Delta Live Tables Pipeline in Azure Databricks for Streamlined Data Processing and Visualization]()
 * [Building a Smart Medical Science Search Engine: Deploying NLP Model with Azure Text Analytics Cognitive Service on Azure Databricks]()
