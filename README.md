@@ -6,7 +6,7 @@ With each project, I embark on a journey of discovery, exploring the nuances of 
 
 Here is the list of my data engineering projects:
 
-*  [ AWS Batch Processing Pipeline for Wikipedia Data Analysis: S3 Storage, EMR Processing, and Athena Querying ]
+*  [ AWS Batch Processing Pipeline for Wikipedia Data Analysis: S3 Storage, EMR Processing, and Athena Querying ](https://www.google.com))
 * [Building a Real-Time Data Warehouse: Implementing Slowly Changing Dimensions with Snowflake, NiFi, and Docker]
 * [Building a Real-Time Spark Streaming Pipeline for GPS Trajectory Analysis on AWS]
 * [Harmonizing Data: Leveraging Azure Synapse for In-Depth Spotify User Insights and Personalized Music Experiences]
