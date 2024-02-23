@@ -17,3 +17,9 @@ Here is the list of my data engineering projects:
 * [Building a Real-World Data Pipeline with PySpark, NiFi, Hive, Kafka, Airflow, Tableau, and AWS QuickSight]
 * [Real-Time Log Analytics with Apache Spark, Python, and Kafka: Leveraging NASA Kennedy Space Center WWW Server Logs for Scalable Log Analysis]
 * [Exploring Analytical Capabilities: Hive Project for Customer Demographics Analytics on AWS]
+
+
+
+
+Or leave it empty and use the [link text itself].
+ 
