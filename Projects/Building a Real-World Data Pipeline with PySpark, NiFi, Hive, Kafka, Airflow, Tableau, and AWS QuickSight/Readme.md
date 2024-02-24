@@ -1,8 +1,9 @@
+# Building a Real-World Data Pipeline with PySpark, NiFi, Hive, Kafka, Airflow, Tableau, and AWS QuickSight
 
-### Project Goal
+## Project Goal
 This PySpark project aims to simulate a sophisticated real-world data pipeline based on messaging, leveraging a comprehensive tech stack including NiFi, PySpark, Hive, HDFS, Kafka, Airflow, Tableau, and AWS QuickSight. The project focuses on demonstrating end-to-end implementation of a Big Data pipeline on AWS, emphasizing scalability, reliability, and security, while providing detailed insights into building and automating data pipelines.
 
-### Approach
+## Approach
 1. **Real-time Data Streaming**: Extract Covid-19 dataset in real-time from an external API using NiFi.
 2. **Data Parsing and Encryption**: Parse complex JSON data into CSV format using NiFi and encrypt one of the PII fields for data security.
 3. **Data Processing with PySpark and Kafka**: Process data sent to Kafka using PySpark and write the processed data to an output Kafka topic.
@@ -10,7 +11,7 @@ This PySpark project aims to simulate a sophisticated real-world data pipeline b
 5. **Data Cleaning and Transformation**: Clean and transform data stored in the data lake.
 6. **Data Visualization**: Visualize key performance indicators using Tableau and AWS QuickSight.
 
-### Tools and Technologies
+## Tools and Technologies
 - NiFi: Real-time data transfer and encryption.
 - PySpark: Data processing and manipulation.
 - Hive: Data warehousing and querying.
@@ -19,7 +20,7 @@ This PySpark project aims to simulate a sophisticated real-world data pipeline b
 - Airflow: Data flow orchestration.
 - Tableau and AWS QuickSight: Data visualization.
 
-### Implementation
+## Implementation
 
 1. **Covid-19 Dataset Streaming**: The Covid-19 dataset was streamed in real-time using NiFi. NiFi processors were configured to fetch data at regular intervals, ensuring continuous data flow from an external API.
 
@@ -38,7 +39,7 @@ This PySpark project aims to simulate a sophisticated real-world data pipeline b
 By implementing these steps, a robust data pipeline was established for processing, storing, and analyzing real-time Covid-19 dataset updates, while providing insights through interactive visualizations.
 
 
-### Key Learnings and Outcomes
+## Key Learnings and Outcomes
 - Understanding of NiFi for real-time data streaming and encryption.
 - Proficiency in PySpark for data processing and manipulation.
 - Knowledge of Hive for data warehousing and querying.
