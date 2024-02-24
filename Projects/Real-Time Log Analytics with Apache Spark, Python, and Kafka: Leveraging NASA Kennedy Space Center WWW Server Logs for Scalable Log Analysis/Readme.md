@@ -1,3 +1,5 @@
+# Real-Time Log Analytics with Apache Spark, Python, and Kafka: Leveraging NASA Kennedy Space Center WWW Server Logs for Scalable Log Analysis
+
 ## Objective
 The "Real-Time Log Analytics" project aims to implement real-time log analytics for NASA's Kennedy Space Center web servers using Apache Kafka, Spark, and Cassandra. It seeks to ingest, process, and analyze log data in real-time to enhance operational efficiency and facilitate data-driven decision-making.
 
