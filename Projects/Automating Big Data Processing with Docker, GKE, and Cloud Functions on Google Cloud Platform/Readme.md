@@ -1,10 +1,9 @@
 # Automating Big Data Processing with Docker, GKE, and Cloud Functions on Google Cloud Platform
 
 ## Objective
-# Objective
 This project aims to utilize Google Cloud Platform (GCP) services such as Dataflow and Apache Beam for batch and real-time data processing, exploring Dataflow features and implementing data pipelines.
 
-# Tools
+## Tools
 - Language: Python3
 - Services: Cloud Storage, Dataflow, Apache Beam, BigQuery, G-Cloud SDK, Pub/Sub
 
@@ -38,7 +37,7 @@ This project aims to utilize Google Cloud Platform (GCP) services such as Datafl
    - The processed data was now stored in BigQuery, ready for analysis using SQL queries or visualization tools like Data Studio.
 
 
-# Key Learnings and Outcomes
+## Key Learnings and Outcomes
 - Practical understanding of Apache Beam and Dataflow for data processing.
 - Hands-on experience with creating and optimizing data pipelines.
 - Familiarity with Pub/Sub and BigQuery for data ingestion and storage.
