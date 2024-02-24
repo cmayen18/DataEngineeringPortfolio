@@ -1,3 +1,5 @@
+# Harmonizing Data: Leveraging Azure Synapse for In-Depth Spotify User Insights and Personalized Music Experiences
+
 ## Objective
 Revolutionizing music streaming analytics, this project harnesses the power of Microsoft Azure Synapse—an integrated analytics service. It aims to unlock new insights within Spotify user data, enhancing analytical capabilities and empowering data-driven decision-making processes in the realm of music consumption.
 
