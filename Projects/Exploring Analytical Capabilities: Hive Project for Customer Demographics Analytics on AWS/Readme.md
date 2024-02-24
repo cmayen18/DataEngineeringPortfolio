@@ -1,4 +1,4 @@
-# 
+# Exploring Analytical Capabilities: Hive Project for Customer Demographics Analytics on AWS
 
 ## Objective
 Explore Hive's analytical capabilities by performing analytics on Customer Demographics data from the Adventure Works dataset using big data tools like Sqoop, Spark, and HDFS.
