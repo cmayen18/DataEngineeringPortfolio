@@ -1,4 +1,4 @@
-# Building a Real-Time Spark Streaming Pipeline for GPS Trajectory Analysis on A
+# Building a Real-Time Spark Streaming Pipeline for GPS Trajectory Analysis on AWS
 
 ## Objective
 The objective of this project is to build a real-time Spark streaming pipeline using various AWS services like AWS S3, Amazon Lambda, Amazon Kinesis Data Streams, Amazon EMR, Amazon Kinesis Firehose, and OpenSearch. The pipeline aims to ingest GPS trajectory data, analyze it in real-time, and deliver insights using visualization tools like Kibana.
