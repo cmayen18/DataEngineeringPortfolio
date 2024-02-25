@@ -32,7 +32,7 @@ The objective of this project is to implement a real-time analytics pipeline usi
   
 ## Data Architecture
 
-![Data Architecture](./Automating_Big_Data_Processing.png)
+![Data Architecture](./Building_Real_Time_Delta_Live_Tables.png)
 
 ## Key Learnings and Outcomes
 - Understanding of real-time analytics and its importance in gaining insights quickly.
