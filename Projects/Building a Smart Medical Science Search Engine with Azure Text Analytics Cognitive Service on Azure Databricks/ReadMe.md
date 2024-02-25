@@ -26,6 +26,9 @@ The objective of this project is to implement a real-time analytics pipeline usi
     - Loaded data from Gold layer tables into Power BI.
     - Created visualizations in Power BI to analyze and gain insights from the processed data.
 
+## Data Architecture
+![Data Architecture](./Azure_Medical_Text_Analytics.png)
+
 ## Key Learnings and Outcomes
 - Understanding of real-time analytics and its importance in gaining insights quickly.
 - Hands-on experience with Azure services like Event Hub, Data Lake Storage, and Databricks for building real-time data pipelines.
