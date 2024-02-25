@@ -16,6 +16,10 @@ The project adopts a strategic approach, starting with the creation of an S3 buc
 - Interact with AWS services using AWS CLI for command-line operations. Use AWS SDK (specifically 'boto3' in Python) for programmatic interaction with AWS services, enabling automation of tasks and integration with existing workflows.
 - Access the EMR cluster securely via SSH to perform administrative tasks and monitor cluster performance. Configure SSH access using EC2 key pairs and ensure secure communication between client and server.
 
+## Data Architectures
+
+![Data Architecture](./AWS_Batch_Processing.png)
+
 
 ## Key Outcomes and Learnings
 - Demonstrated batch processing techniques for efficiently analyzing large datasets.

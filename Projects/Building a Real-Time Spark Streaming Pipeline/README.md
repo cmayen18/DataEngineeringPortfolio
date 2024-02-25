@@ -1,4 +1,4 @@
-# Building a Real-Time Data Warehouse: Implementing Slowly Changing Dimensions with Snowflake, NiFi, and Docker
+# Building a Real-Time Spark Streaming Pipeline for GPS Trajectory Analysis on A
 
 ## Objective
 The objective of this project is to build a real-time Spark streaming pipeline using various AWS services like AWS S3, Amazon Lambda, Amazon Kinesis Data Streams, Amazon EMR, Amazon Kinesis Firehose, and OpenSearch. The pipeline aims to ingest GPS trajectory data, analyze it in real-time, and deliver insights using visualization tools like Kibana.
@@ -32,6 +32,9 @@ The objective of this project is to build a real-time Spark streaming pipeline u
    - Utilized Kibana, a part of OpenSearch, to create dynamic visualizations and interactive dashboards for analyzing the GPS trajectory data in real-time.
    - Designed visualizations such as maps, charts, and histograms to showcase spatial and temporal trends in the GPS trajectory data, enabling users to gain actionable insights.
 
+## Data Architecture
+
+![Data Architecture](./BuildingRealWorldDataPipelines.png)
 
 ## Key Learnings and Outcomes
 - Understanding the concepts and implementation of real-time analytics pipelines.

@@ -22,6 +22,11 @@ The objective of this project is to implement Slowly Changing Dimensions (SCDs) 
    - Utilized Snowflake Snowpipe to automate loading new data from S3 to the staging table.
    - Recorded changes using Snowflake streams to implement SCD Type-1 and Type-2.
 
+## Data Architecture
+
+![Data Architecture](./Building_Real_Time_Data_Warehouse.png)
+
+
  ## Learning Outcomes
    - Understanding of Slowly Changing Dimensions and their importance in data warehousing.
    - Familiarity with AWS services like EC2, S3, and Snowflake for building data pipelines and managing data storage.

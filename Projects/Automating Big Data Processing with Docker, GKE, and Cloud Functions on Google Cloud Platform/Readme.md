@@ -39,6 +39,9 @@ The objective of this project is to automate and deploy a dataflow service as a 
   - Monitored the deployment process and ensured successful deployment without errors.
   - Tested the functionality of the microservice in the GKE environment to verify proper execution and integration with other components.
 
+## Data Architecture
+
+![Data Architecture](./Automating_Big_Data_Processing.png)
 
 ## Key Learnings and Outcomes
 - Understanding of containerization with Docker and container orchestration with Kubernetes.

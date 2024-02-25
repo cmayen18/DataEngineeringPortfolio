@@ -38,6 +38,9 @@ This PySpark project aims to simulate a sophisticated real-world data pipeline b
 
 By implementing these steps, a robust data pipeline was established for processing, storing, and analyzing real-time Covid-19 dataset updates, while providing insights through interactive visualizations.
 
+## Data Architecture
+
+![Data Architecture](./Building_Real_Time_Data_Warehouse.png)
 
 ## Key Learnings and Outcomes
 - Understanding of NiFi for real-time data streaming and encryption.
