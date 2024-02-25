@@ -49,6 +49,9 @@ Explore Hive's analytical capabilities by performing analytics on Customer Demog
    - Executed analytical queries on the Customer Demographics data stored in Hive tables using HiveQL, leveraging Hive's SQL-like interface for data analysis.
    - Performed various analytics tasks such as demographic segmentation, trend analysis, and pattern recognition to derive actionable insights from the data.
 
+## Data Architecture
+
+![Data Architecture](./Exploring_Hive.png)
 
 ## Key Learnings and Outcomes
 
