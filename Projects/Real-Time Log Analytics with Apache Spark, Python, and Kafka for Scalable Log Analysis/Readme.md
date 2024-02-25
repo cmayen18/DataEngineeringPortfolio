@@ -26,7 +26,7 @@ This project adopts a systematic approach to real-time log analytics, leveraging
 
 ## Data Architecture
 
-![Data Architecture](./BuildingRealWorldDataPipelines.png)
+![Data Architecture](./RealTimeLogAnalytics.png)
 
 ## Key Learnings and Outcomes
 - Gain understanding of the Lambda Architecture.
