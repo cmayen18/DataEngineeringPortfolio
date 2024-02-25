@@ -34,7 +34,7 @@ The objective of this project is to build a real-time Spark streaming pipeline u
 
 ## Data Architecture
 
-![Data Architecture](./BuildingRealWorldDataPipelines.png)
+![Data Architecture](./Building_Real_Time_Data_Warehouse.png)
 
 ## Key Learnings and Outcomes
 - Understanding the concepts and implementation of real-time analytics pipelines.
