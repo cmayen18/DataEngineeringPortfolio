@@ -32,7 +32,7 @@ The objective of this project is to implement a real-time analytics pipeline usi
   
 ## Data Architecture
 
-![alt text](https://github.com/cmayen18/DataEngineeringPortfolio/Projects/Building Real-Time Delta Live Tables Pipeline in Azure Databricks for Streamlined Data Processing and Visualization/Building_Real_Time_Delta_Live_Tables.png "Data Architecture")
+![alt text](https://github.com/cmayen18/DataEngineeringPortfolio/Automating_Big_Data_Processing.png)
 
 ## Key Learnings and Outcomes
 - Understanding of real-time analytics and its importance in gaining insights quickly.
