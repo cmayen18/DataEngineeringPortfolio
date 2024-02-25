@@ -29,6 +29,10 @@ The objective of this project is to implement a real-time analytics pipeline usi
 5. **Visualizing Data in Power BI:**
    - Loaded data from Gold layer tables into Power BI.
    - Created visualizations in Power BI to analyze and gain insights from the processed data.
+  
+## Data Architecture
+
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/cmayen18/DataEngineeringPortfolio/blob/main/Projects/Building%20Real-Time%20Delta%20Live%20Tables%20Pipeline%20in%20Azure%20Databricks%20for%20Streamlined%20Data%20Processing%20and%20Visualization/Building_Real_Time_Delta_Live_Tables.png) "Data Architecture")
 
 ## Key Learnings and Outcomes
 - Understanding of real-time analytics and its importance in gaining insights quickly.
