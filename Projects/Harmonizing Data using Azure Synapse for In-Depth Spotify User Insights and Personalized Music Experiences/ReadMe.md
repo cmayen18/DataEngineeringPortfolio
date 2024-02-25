@@ -36,6 +36,10 @@ Embarking on a systematic journey, meticulous collection, integration, and analy
 - **Development Environment and Collaboration:**
   - Azure Synapse Studio, Azure Portal, Git
 
+## Data Architecture
+
+![Data Architecture](./Harmonizing_Spotfy_API_Data.png)
+
 ## Key Learnings and Outcomes
 - Mastery in seamlessly integrating Spotify API data into Azure services.
 - Skills in utilizing Azure Synapse Analytics and Dedicated SQL Pools for efficient data warehousing and processing.
