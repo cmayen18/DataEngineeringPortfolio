@@ -40,7 +40,7 @@ By implementing these steps, a robust data pipeline was established for processi
 
 ## Data Architecture
 
-![Data Architecture](./Building_Real_Time_Data_Warehouse.png)
+![Data Architecture](./BuildingRealWorldDataPipelines.png)
 
 ## Key Learnings and Outcomes
 - Understanding of NiFi for real-time data streaming and encryption.
