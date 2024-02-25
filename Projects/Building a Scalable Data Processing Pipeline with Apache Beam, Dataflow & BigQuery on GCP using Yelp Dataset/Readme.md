@@ -76,6 +76,9 @@ Understanding and implementing a data ingestion and processing pipeline on Googl
 - **Visualizing Data in Data Studio:**
   - Visualize the processed data using Google Data Studio, creating insightful dashboards and reports to derive actionable insights from the analyzed data.
 
+## Data Architecture
+
+![Data Architecture](./Building_Scalable_Processing_Pipelines.png)
 
 ## Key Learnings and Outcomes
 - Understanding data ingestion and processing pipelines.
