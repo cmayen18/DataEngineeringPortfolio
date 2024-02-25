@@ -5,6 +5,11 @@ The "Real-Time Log Analytics" project aims to implement real-time log analytics 
 ## Approach
 This project adopts a systematic approach to real-time log analytics, leveraging technologies like Apache Kafka, Spark, and Cassandra. It involves setting up the environment, parsing and cleaning log data, ingesting data from various sources using NiFi and Kafka, loading data into Cassandra and HDFS, and finally, visualizing insights through live dashboards using Plotly and Dash.
 
+## Tools
+- **Language:** Python
+- **Technologies:**
+  - Apache Kafka, Apache Spark, Cassandra, Docker, AWS EC2, Apache NiFi, HDFS, Jupyter Lab, Plotly, Dash
+
 ## Implementation
 - **Setting Up Environment:**
   - Creation of an EC2 instance on AWS with Docker and essential tools.
@@ -19,10 +24,9 @@ This project adopts a systematic approach to real-time log analytics, leveraging
 - **Data Visualization:**
   - Creating live dashboards with Plotly and Dash for real-time visualization of log data.
 
-## Tools
-- **Language:** Python
-- **Tools and Technologies:**
-  - Apache Kafka, Apache Spark, Cassandra, Docker, AWS EC2, Apache NiFi, HDFS, Jupyter Lab, Plotly, Dash
+## Data Architecture
+
+![Data Architecture](./BuildingRealWorldDataPipelines.png)
 
 ## Key Learnings and Outcomes
 - Gain understanding of the Lambda Architecture.
